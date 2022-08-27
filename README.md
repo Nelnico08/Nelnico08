@@ -31,4 +31,7 @@ I’m Nelson Escurra, a full stack web developer who wants to grow his professio
 
 <p>
 <a href="https://github.com/Nelnico08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="50" height="50" /></a>
+<a href="https://www.linkedin.com/in/nelson-n-escurra-966a50213/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a>
+<a href="https://www.twitter.com/nelnico08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="50" height="50" /></a>
+<a href="https://www.instagram.com/nelnico08/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a>
 </p>
