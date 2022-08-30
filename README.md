@@ -9,7 +9,7 @@ I’m Nelson Escurra, a full stack web developer who wants to grow his professio
 - 🌍 I'm based in Buenos Aires, Argentina
 - 🌱 I’m currently learning Django
 - ✉️  You can contact me at [nelnico008@gmail.com](mailto:nelnico008@gmail.com)
-- 💬 Ask me about web apps, triathlon, running and videogames
+- 💬 Ask me about web apps, triathlon, running, videogames and formula 1
 
 ### Skills:
 
