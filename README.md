@@ -7,7 +7,6 @@ Full stack web developer
 I’m Nelson Escurra, a full stack web developer who wants to grow his professional career. That’s the reason I’m always trying to learn new technologies. I am a Backend enthusiast but I can do just as well in the Frontend.
 
 - 🌍 I'm based in Buenos Aires, Argentina
-- 🌱 I’m currently learning Django
 - ✉️  You can contact me at [nelnico008@gmail.com](mailto:nelnico008@gmail.com)
 - 💼 Check my [portfolio](https://nelson-escurra.netlify.app/)
 - 💬 Ask me about web apps, triathlon, running, videogames and formula 1
